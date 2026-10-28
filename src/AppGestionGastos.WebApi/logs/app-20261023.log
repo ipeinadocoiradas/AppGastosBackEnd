@@ -1,0 +1,298 @@
+2026-10-23 10:56:04.727 +02:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2026-10-23 10:56:05.117 +02:00 [INF] No migrations were applied. The database is already up to date.
+2026-10-23 10:56:08.953 +02:00 [INF] HTTP GET /scalar/v1 respondió 200 en 532.0705 ms
+2026-10-23 10:56:09.117 +02:00 [INF] HTTP GET /scalar/scalar.aspnetcore.js respondió 200 en 91.5731 ms
+2026-10-23 10:56:09.182 +02:00 [INF] HTTP GET /scalar/scalar.js respondió 200 en 157.5472 ms
+2026-10-23 10:56:09.912 +02:00 [INF] HTTP GET /openapi/v1.json respondió 200 en 66.7940 ms
+2026-10-23 10:56:10.525 +02:00 [INF] HTTP GET /scalar/favicon.svg respondió 200 en 2.4926 ms
+2026-10-23 11:28:57.712 +02:00 [INF] HTTP OPTIONS /api/auth/login respondió 204 en 2.4824 ms
+2026-10-23 11:28:58.576 +02:00 [INF] HTTP POST /api/auth/login respondió 200 en 859.3464 ms
+2026-10-23 11:28:58.658 +02:00 [INF] HTTP OPTIONS /api/cuentas respondió 204 en 0.2115 ms
+2026-10-23 11:28:58.658 +02:00 [INF] HTTP OPTIONS /api/categorias respondió 204 en 0.0480 ms
+2026-10-23 11:28:58.658 +02:00 [INF] HTTP OPTIONS /api/tipos-movimiento respondió 204 en 0.1269 ms
+2026-10-23 11:28:58.707 +02:00 [INF] HTTP OPTIONS /api/movimientos respondió 204 en 0.1797 ms
+2026-10-23 11:28:58.809 +02:00 [INF] HTTP GET /api/cuentas respondió 404 en 105.6224 ms
+2026-10-23 11:28:58.809 +02:00 [INF] HTTP GET /api/tipos-movimiento respondió 404 en 102.1966 ms
+2026-10-23 11:28:59.041 +02:00 [INF] HTTP GET /api/movimientos respondió 200 en 319.5184 ms
+2026-10-23 11:28:59.123 +02:00 [INF] HTTP GET /api/categorias respondió 200 en 419.9845 ms
+2026-10-23 11:29:03.193 +02:00 [INF] HTTP OPTIONS /api/usuarios respondió 204 en 0.1563 ms
+2026-10-23 11:29:03.304 +02:00 [INF] HTTP GET /api/usuarios respondió 200 en 99.7390 ms
+2026-10-23 11:29:10.555 +02:00 [INF] HTTP OPTIONS /api/bancos respondió 204 en 0.2806 ms
+2026-10-23 11:29:10.624 +02:00 [INF] HTTP GET /api/bancos respondió 200 en 56.1475 ms
+2026-10-23 11:29:12.702 +02:00 [INF] HTTP OPTIONS /api/tipos-cuenta respondió 204 en 0.1283 ms
+2026-10-23 11:29:12.786 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 69.1347 ms
+2026-10-23 11:29:16.135 +02:00 [INF] HTTP OPTIONS /api/categorias respondió 204 en 0.5357 ms
+2026-10-23 11:29:16.163 +02:00 [INF] HTTP GET /api/categorias respondió 200 en 12.1481 ms
+2026-10-23 11:29:19.394 +02:00 [INF] HTTP OPTIONS /api/bancos respondió 204 en 0.3478 ms
+2026-10-23 11:29:19.398 +02:00 [INF] HTTP OPTIONS /api/tipos-cuenta respondió 204 en 0.1647 ms
+2026-10-23 11:29:19.398 +02:00 [INF] HTTP OPTIONS /api/cuentas respondió 204 en 0.1657 ms
+2026-10-23 11:29:19.412 +02:00 [INF] HTTP GET /api/cuentas respondió 404 en 1.0152 ms
+2026-10-23 11:29:19.415 +02:00 [INF] HTTP GET /api/bancos respondió 200 en 8.3404 ms
+2026-10-23 11:29:19.419 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 7.4980 ms
+2026-10-23 13:58:22.888 +02:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2026-10-23 13:58:23.256 +02:00 [INF] No migrations were applied. The database is already up to date.
+2026-10-23 13:58:25.551 +02:00 [INF] HTTP GET /scalar/v1 respondió 200 en 583.6526 ms
+2026-10-23 13:58:25.617 +02:00 [INF] HTTP GET /scalar/scalar.aspnetcore.js respondió 304 en 32.2957 ms
+2026-10-23 13:58:25.619 +02:00 [INF] HTTP GET /scalar/scalar.js respondió 304 en 34.6040 ms
+2026-10-23 13:58:26.150 +02:00 [INF] HTTP GET /openapi/v1.json respondió 200 en 50.4774 ms
+2026-10-23 13:58:49.388 +02:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2026-10-23 13:58:49.783 +02:00 [INF] No migrations were applied. The database is already up to date.
+2026-10-23 13:58:51.680 +02:00 [INF] HTTP GET /scalar/v1 respondió 200 en 539.7554 ms
+2026-10-23 13:58:51.795 +02:00 [INF] HTTP GET /scalar/scalar.aspnetcore.js respondió 304 en 67.9699 ms
+2026-10-23 13:58:51.795 +02:00 [INF] HTTP GET /scalar/scalar.js respondió 304 en 67.9791 ms
+2026-10-23 13:58:52.037 +02:00 [INF] HTTP GET /openapi/v1.json respondió 200 en 59.3159 ms
+2026-10-23 14:00:00.995 +02:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2026-10-23 14:00:01.346 +02:00 [INF] No migrations were applied. The database is already up to date.
+2026-10-23 14:00:03.366 +02:00 [INF] HTTP GET /scalar/v1 respondió 200 en 554.5041 ms
+2026-10-23 14:00:03.540 +02:00 [INF] HTTP GET /scalar/scalar.js respondió 304 en 128.0612 ms
+2026-10-23 14:00:03.540 +02:00 [INF] HTTP GET /scalar/scalar.aspnetcore.js respondió 304 en 128.0572 ms
+2026-10-23 14:00:03.708 +02:00 [INF] HTTP GET /openapi/v1.json respondió 200 en 44.7504 ms
+2026-10-23 14:00:11.513 +02:00 [INF] HTTP OPTIONS /api/categorias respondió 204 en 1.4121 ms
+2026-10-23 14:00:11.525 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+AppGestionGastos.WebApi.Controllers.CategoriasController.Obtener (AppGestionGastos.WebApi)
+AppGestionGastos.WebApi.Controllers.CuentasController.Obtener (AppGestionGastos.WebApi)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-10-23 14:00:14.115 +02:00 [INF] HTTP OPTIONS /api/tipos-cuenta respondió 204 en 0.3571 ms
+2026-10-23 14:00:14.270 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 401 en 143.6138 ms
+2026-10-23 14:00:30.309 +02:00 [INF] HTTP OPTIONS /api/auth/login respondió 204 en 0.2591 ms
+2026-10-23 14:00:31.099 +02:00 [INF] HTTP POST /api/auth/login respondió 200 en 786.1095 ms
+2026-10-23 14:00:31.125 +02:00 [INF] HTTP OPTIONS /api/cuentas respondió 204 en 0.1850 ms
+2026-10-23 14:00:31.129 +02:00 [INF] HTTP OPTIONS /api/categorias respondió 204 en 0.1369 ms
+2026-10-23 14:00:31.142 +02:00 [INF] HTTP OPTIONS /api/movimientos respondió 204 en 0.1074 ms
+2026-10-23 14:00:31.142 +02:00 [INF] HTTP OPTIONS /api/tipos-movimiento respondió 204 en 0.4063 ms
+2026-10-23 14:00:31.157 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+AppGestionGastos.WebApi.Controllers.CategoriasController.Obtener (AppGestionGastos.WebApi)
+AppGestionGastos.WebApi.Controllers.CuentasController.Obtener (AppGestionGastos.WebApi)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-10-23 14:00:31.185 +02:00 [INF] HTTP GET /api/cuentas respondió 404 en 27.5808 ms
+2026-10-23 14:00:31.185 +02:00 [INF] HTTP GET /api/tipos-movimiento respondió 404 en 27.5790 ms
+2026-10-23 14:00:31.533 +02:00 [INF] HTTP GET /api/movimientos respondió 200 en 374.8697 ms
+2026-10-23 14:00:37.493 +02:00 [INF] HTTP OPTIONS /api/bancos respondió 204 en 0.2348 ms
+2026-10-23 14:00:37.496 +02:00 [INF] HTTP OPTIONS /api/cuentas respondió 204 en 0.0441 ms
+2026-10-23 14:00:37.496 +02:00 [INF] HTTP OPTIONS /api/tipos-cuenta respondió 204 en 0.1177 ms
+2026-10-23 14:00:37.513 +02:00 [INF] HTTP GET /api/cuentas respondió 404 en 1.5302 ms
+2026-10-23 14:00:37.668 +02:00 [INF] HTTP GET /api/bancos respondió 200 en 161.7255 ms
+2026-10-23 14:00:37.668 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 160.0308 ms
+2026-10-23 14:00:58.053 +02:00 [INF] HTTP OPTIONS /api/categorias respondió 204 en 0.4965 ms
+2026-10-23 14:00:58.065 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+AppGestionGastos.WebApi.Controllers.CategoriasController.Obtener (AppGestionGastos.WebApi)
+AppGestionGastos.WebApi.Controllers.CuentasController.Obtener (AppGestionGastos.WebApi)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-10-23 14:01:01.606 +02:00 [INF] HTTP OPTIONS /api/tipos-cuenta respondió 204 en 0.1196 ms
+2026-10-23 14:01:01.632 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 14.9239 ms
+2026-10-23 14:01:03.161 +02:00 [INF] HTTP OPTIONS /api/bancos respondió 204 en 0.7769 ms
+2026-10-23 14:01:03.184 +02:00 [INF] HTTP GET /api/bancos respondió 200 en 10.2505 ms
+2026-10-23 14:01:04.449 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 5.6581 ms
+2026-10-23 14:01:05.027 +02:00 [INF] HTTP OPTIONS /api/categorias respondió 204 en 0.1653 ms
+2026-10-23 14:01:05.037 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+AppGestionGastos.WebApi.Controllers.CategoriasController.Obtener (AppGestionGastos.WebApi)
+AppGestionGastos.WebApi.Controllers.CuentasController.Obtener (AppGestionGastos.WebApi)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-10-23 14:01:09.641 +02:00 [INF] HTTP OPTIONS /api/bancos respondió 204 en 0.1232 ms
+2026-10-23 14:01:09.663 +02:00 [INF] HTTP GET /api/bancos respondió 200 en 8.4556 ms
+2026-10-23 14:01:10.169 +02:00 [INF] HTTP OPTIONS /api/usuarios respondió 204 en 0.1545 ms
+2026-10-23 14:01:10.248 +02:00 [INF] HTTP GET /api/usuarios respondió 200 en 66.4813 ms
+2026-10-23 14:01:10.783 +02:00 [INF] HTTP GET /api/bancos respondió 200 en 1.7389 ms
+2026-10-23 14:01:12.160 +02:00 [INF] HTTP OPTIONS /api/tipos-cuenta respondió 204 en 0.1699 ms
+2026-10-23 14:01:12.174 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 3.4077 ms
+2026-10-23 14:01:13.635 +02:00 [INF] HTTP GET /api/bancos respondió 200 en 2.4984 ms
+2026-10-23 14:01:14.118 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 1.8001 ms
+2026-10-23 14:01:15.578 +02:00 [INF] HTTP OPTIONS /api/bancos respondió 204 en 0.1184 ms
+2026-10-23 14:01:15.592 +02:00 [INF] HTTP GET /api/bancos respondió 200 en 1.2435 ms
+2026-10-23 14:01:16.091 +02:00 [INF] HTTP OPTIONS /api/categorias respondió 204 en 0.1266 ms
+2026-10-23 14:01:16.100 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+AppGestionGastos.WebApi.Controllers.CategoriasController.Obtener (AppGestionGastos.WebApi)
+AppGestionGastos.WebApi.Controllers.CuentasController.Obtener (AppGestionGastos.WebApi)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-10-23 14:01:20.907 +02:00 [INF] HTTP OPTIONS /api/tipos-cuenta respondió 204 en 0.0603 ms
+2026-10-23 14:01:20.924 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 2.5464 ms
+2026-10-23 14:01:23.900 +02:00 [INF] HTTP OPTIONS /api/bancos respondió 204 en 0.0850 ms
+2026-10-23 14:01:23.910 +02:00 [INF] HTTP GET /api/bancos respondió 200 en 1.9445 ms
+2026-10-23 14:01:24.928 +02:00 [INF] HTTP OPTIONS /api/usuarios respondió 204 en 0.0811 ms
+2026-10-23 14:01:24.943 +02:00 [INF] HTTP GET /api/usuarios respondió 200 en 5.0612 ms
+2026-10-23 14:01:26.301 +02:00 [INF] HTTP OPTIONS /api/tipos-cuenta respondió 204 en 0.0879 ms
+2026-10-23 14:01:26.311 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 1.8049 ms
+2026-10-23 14:01:26.903 +02:00 [INF] HTTP OPTIONS /api/categorias respondió 204 en 0.0749 ms
+2026-10-23 14:01:26.912 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+AppGestionGastos.WebApi.Controllers.CategoriasController.Obtener (AppGestionGastos.WebApi)
+AppGestionGastos.WebApi.Controllers.CuentasController.Obtener (AppGestionGastos.WebApi)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-10-23 14:01:57.032 +02:00 [INF] HTTP OPTIONS /api/tipos-cuenta respondió 204 en 0.1106 ms
+2026-10-23 14:01:57.051 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 3.2827 ms
+2026-10-23 14:01:57.637 +02:00 [INF] HTTP OPTIONS /api/categorias respondió 204 en 0.0827 ms
+2026-10-23 14:01:57.650 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+AppGestionGastos.WebApi.Controllers.CategoriasController.Obtener (AppGestionGastos.WebApi)
+AppGestionGastos.WebApi.Controllers.CuentasController.Obtener (AppGestionGastos.WebApi)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-10-23 14:02:39.012 +02:00 [INF] HTTP OPTIONS /api/tipos-cuenta respondió 204 en 0.4080 ms
+2026-10-23 14:02:39.044 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 1.5624 ms
+2026-10-23 14:02:42.183 +02:00 [INF] HTTP OPTIONS /api/categorias respondió 204 en 0.0907 ms
+2026-10-23 14:02:42.194 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+AppGestionGastos.WebApi.Controllers.CategoriasController.Obtener (AppGestionGastos.WebApi)
+AppGestionGastos.WebApi.Controllers.CuentasController.Obtener (AppGestionGastos.WebApi)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-10-23 14:02:48.433 +02:00 [INF] HTTP OPTIONS /api/bancos respondió 204 en 0.1216 ms
+2026-10-23 14:02:48.436 +02:00 [INF] HTTP OPTIONS /api/tipos-cuenta respondió 204 en 0.0647 ms
+2026-10-23 14:02:48.437 +02:00 [INF] HTTP OPTIONS /api/cuentas respondió 204 en 0.0555 ms
+2026-10-23 14:02:48.449 +02:00 [INF] HTTP GET /api/bancos respondió 200 en 3.9301 ms
+2026-10-23 14:02:48.452 +02:00 [INF] HTTP GET /api/cuentas respondió 404 en 0.6089 ms
+2026-10-23 14:02:48.452 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 2.9797 ms
+2026-10-23 14:02:53.059 +02:00 [INF] HTTP OPTIONS /api/categorias respondió 204 en 0.1758 ms
+2026-10-23 14:02:53.074 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+AppGestionGastos.WebApi.Controllers.CategoriasController.Obtener (AppGestionGastos.WebApi)
+AppGestionGastos.WebApi.Controllers.CuentasController.Obtener (AppGestionGastos.WebApi)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, Span`1 candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-10-23 14:03:53.800 +02:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2026-10-23 14:03:54.145 +02:00 [INF] No migrations were applied. The database is already up to date.
+2026-10-23 14:03:56.057 +02:00 [INF] HTTP GET /scalar/v1 respondió 200 en 453.8712 ms
+2026-10-23 14:03:56.145 +02:00 [INF] HTTP GET /scalar/scalar.aspnetcore.js respondió 304 en 86.5258 ms
+2026-10-23 14:03:56.145 +02:00 [INF] HTTP GET /scalar/scalar.js respondió 304 en 86.5269 ms
+2026-10-23 14:03:56.316 +02:00 [INF] HTTP GET /openapi/v1.json respondió 200 en 49.3462 ms
+2026-10-23 14:04:03.204 +02:00 [INF] HTTP GET /api/categorias respondió 401 en 48.6505 ms
+2026-10-23 14:04:14.443 +02:00 [INF] HTTP OPTIONS /api/tipos-cuenta respondió 204 en 1.6089 ms
+2026-10-23 14:04:14.966 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 513.1063 ms
+2026-10-23 14:04:16.142 +02:00 [INF] HTTP OPTIONS /api/categorias respondió 204 en 0.2311 ms
+2026-10-23 14:04:17.932 +02:00 [WRN] Petición lenta: HTTP GET /api/categorias respondió 200 en 1777.0968 ms
+2026-10-23 14:04:20.352 +02:00 [INF] HTTP OPTIONS /api/bancos respondió 204 en 0.1726 ms
+2026-10-23 14:04:20.352 +02:00 [INF] HTTP OPTIONS /api/tipos-cuenta respondió 204 en 0.1731 ms
+2026-10-23 14:04:20.352 +02:00 [INF] HTTP OPTIONS /api/cuentas respondió 204 en 0.1671 ms
+2026-10-23 14:04:20.368 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 10.0864 ms
+2026-10-23 14:04:33.326 +02:00 [WRN] Petición lenta: HTTP GET /api/bancos respondió 200 en 12967.6109 ms
+2026-10-23 14:04:33.341 +02:00 [WRN] Petición lenta: HTTP GET /api/cuentas respondió 200 en 12983.3409 ms
+2026-10-23 14:04:52.729 +02:00 [INF] HTTP OPTIONS /api/categorias respondió 204 en 0.1608 ms
+2026-10-23 14:04:56.615 +02:00 [WRN] Petición lenta: HTTP GET /api/categorias respondió 200 en 3873.3013 ms
+2026-10-23 14:04:58.604 +02:00 [INF] HTTP OPTIONS /api/bancos respondió 204 en 0.1521 ms
+2026-10-23 14:04:58.605 +02:00 [INF] HTTP OPTIONS /api/tipos-cuenta respondió 204 en 0.1349 ms
+2026-10-23 14:04:58.605 +02:00 [INF] HTTP OPTIONS /api/cuentas respondió 204 en 0.0592 ms
+2026-10-23 14:04:58.622 +02:00 [INF] HTTP GET /api/bancos respondió 200 en 3.3516 ms
+2026-10-23 14:05:18.413 +02:00 [WRN] Petición lenta: HTTP GET /api/tipos-cuenta respondió 200 en 19792.3276 ms
+2026-10-23 14:05:18.413 +02:00 [WRN] Petición lenta: HTTP GET /api/cuentas respondió 200 en 19792.3746 ms
+2026-10-23 14:05:27.117 +02:00 [INF] HTTP OPTIONS /api/categorias respondió 204 en 0.3330 ms
+2026-10-23 14:05:27.136 +02:00 [INF] HTTP GET /api/categorias respondió 200 en 7.4662 ms
+2026-10-23 14:05:27.700 +02:00 [INF] HTTP OPTIONS /api/bancos respondió 204 en 0.1489 ms
+2026-10-23 14:05:27.704 +02:00 [INF] HTTP OPTIONS /api/cuentas respondió 204 en 0.0404 ms
+2026-10-23 14:05:27.704 +02:00 [INF] HTTP OPTIONS /api/tipos-cuenta respondió 204 en 0.1331 ms
+2026-10-23 14:05:27.717 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 1.9013 ms
+2026-10-23 14:05:27.720 +02:00 [INF] HTTP GET /api/bancos respondió 200 en 6.2583 ms
+2026-10-23 14:05:28.962 +02:00 [WRN] Petición lenta: HTTP GET /api/cuentas respondió 200 en 1246.1001 ms
+2026-10-23 14:05:51.111 +02:00 [INF] HTTP OPTIONS /api/cuentas respondió 204 en 0.4541 ms
+2026-10-23 14:05:51.115 +02:00 [INF] HTTP OPTIONS /api/categorias respondió 204 en 0.1172 ms
+2026-10-23 14:05:51.117 +02:00 [INF] HTTP OPTIONS /api/tipos-movimiento respondió 204 en 0.1532 ms
+2026-10-23 14:05:51.117 +02:00 [INF] HTTP OPTIONS /api/movimientos respondió 204 en 0.0924 ms
+2026-10-23 14:05:59.221 +02:00 [WRN] Petición lenta: HTTP GET /api/cuentas respondió 200 en 8098.3121 ms
+2026-10-23 14:05:59.263 +02:00 [WRN] Petición lenta: HTTP GET /api/tipos-movimiento respondió 404 en 8136.2585 ms
+2026-10-23 14:05:59.268 +02:00 [WRN] Petición lenta: HTTP GET /api/categorias respondió 200 en 8143.5902 ms
+2026-10-23 14:05:59.306 +02:00 [WRN] Petición lenta: HTTP GET /api/movimientos respondió 200 en 8179.9751 ms
+2026-10-23 14:06:16.520 +02:00 [INF] HTTP OPTIONS /api/bancos respondió 204 en 0.1746 ms
+2026-10-23 14:06:16.523 +02:00 [INF] HTTP OPTIONS /api/tipos-cuenta respondió 204 en 0.0676 ms
+2026-10-23 14:06:16.523 +02:00 [INF] HTTP OPTIONS /api/cuentas respondió 204 en 0.0843 ms
+2026-10-23 14:06:16.536 +02:00 [INF] HTTP GET /api/bancos respondió 200 en 2.8606 ms
+2026-10-23 14:06:16.536 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 1.1505 ms
+2026-10-23 14:06:38.902 +02:00 [INF] HTTP OPTIONS /api/tipos-movimiento respondió 204 en 0.2343 ms
+2026-10-23 14:06:38.905 +02:00 [INF] HTTP OPTIONS /api/movimientos respondió 204 en 0.0726 ms
+2026-10-23 14:06:38.929 +02:00 [INF] HTTP OPTIONS /api/cuentas respondió 204 en 23.2661 ms
+2026-10-23 14:06:38.929 +02:00 [INF] HTTP OPTIONS /api/categorias respondió 204 en 23.3515 ms
+2026-10-23 14:06:38.961 +02:00 [INF] HTTP GET /api/tipos-movimiento respondió 404 en 30.4479 ms
+2026-10-23 14:06:38.992 +02:00 [INF] HTTP GET /api/categorias respondió 200 en 29.7515 ms
+2026-10-23 14:06:38.993 +02:00 [WRN] Petición lenta: HTTP GET /api/cuentas respondió 200 en 22456.8272 ms
+2026-10-23 14:06:38.993 +02:00 [INF] HTTP GET /api/cuentas respondió 200 en 32.7136 ms
+2026-10-23 14:06:38.997 +02:00 [INF] HTTP GET /api/movimientos respondió 200 en 66.9804 ms
+2026-10-23 14:07:19.850 +02:00 [INF] HTTP OPTIONS /api/bancos respondió 204 en 0.1026 ms
+2026-10-23 14:07:19.854 +02:00 [INF] HTTP OPTIONS /api/cuentas respondió 204 en 0.1370 ms
+2026-10-23 14:07:19.857 +02:00 [INF] HTTP OPTIONS /api/tipos-cuenta respondió 204 en 0.1690 ms
+2026-10-23 14:07:19.876 +02:00 [INF] HTTP GET /api/bancos respondió 200 en 5.7422 ms
+2026-10-23 14:07:19.883 +02:00 [INF] HTTP GET /api/cuentas respondió 200 en 14.4992 ms
+2026-10-23 14:07:19.885 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 1.5231 ms
+2026-10-23 14:07:20.465 +02:00 [INF] HTTP OPTIONS /api/categorias respondió 204 en 0.0780 ms
+2026-10-23 14:07:20.480 +02:00 [INF] HTTP GET /api/categorias respondió 200 en 3.0642 ms
+2026-10-23 14:07:20.912 +02:00 [INF] HTTP OPTIONS /api/tipos-cuenta respondió 204 en 0.0646 ms
+2026-10-23 14:07:20.926 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 1.9757 ms
+2026-10-23 14:07:21.278 +02:00 [INF] HTTP OPTIONS /api/bancos respondió 204 en 0.0944 ms
+2026-10-23 14:07:21.297 +02:00 [INF] HTTP GET /api/bancos respondió 200 en 9.3197 ms
+2026-10-23 14:07:22.520 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 1.4639 ms
+2026-10-23 14:07:26.422 +02:00 [INF] HTTP OPTIONS /api/bancos respondió 204 en 0.0697 ms
+2026-10-23 14:07:26.434 +02:00 [INF] HTTP GET /api/bancos respondió 200 en 1.3941 ms
+2026-10-23 14:07:26.957 +02:00 [INF] HTTP OPTIONS /api/usuarios respondió 204 en 0.0852 ms
+2026-10-23 14:07:27.052 +02:00 [INF] HTTP GET /api/usuarios respondió 200 en 81.0047 ms
+2026-10-23 14:07:36.234 +02:00 [INF] HTTP OPTIONS /api/bancos respondió 204 en 0.0697 ms
+2026-10-23 14:07:36.249 +02:00 [INF] HTTP GET /api/bancos respondió 200 en 1.6081 ms
+2026-10-23 14:07:37.734 +02:00 [INF] HTTP OPTIONS /api/tipos-cuenta respondió 204 en 0.0648 ms
+2026-10-23 14:07:37.747 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 1.9128 ms
+2026-10-23 14:07:38.683 +02:00 [INF] HTTP OPTIONS /api/categorias respondió 204 en 0.1047 ms
+2026-10-23 14:07:38.697 +02:00 [INF] HTTP GET /api/categorias respondió 200 en 1.3975 ms
+2026-10-23 14:07:41.590 +02:00 [INF] HTTP OPTIONS /api/categorias respondió 204 en 0.0435 ms
+2026-10-23 14:07:41.620 +02:00 [INF] HTTP GET /api/categorias respondió 200 en 25.7098 ms
+2026-10-23 14:07:43.229 +02:00 [INF] HTTP GET /api/categorias respondió 200 en 0.8033 ms
+2026-10-23 14:07:46.180 +02:00 [INF] HTTP OPTIONS /api/bancos respondió 204 en 0.0389 ms
+2026-10-23 14:07:46.183 +02:00 [INF] HTTP OPTIONS /api/tipos-cuenta respondió 204 en 0.0465 ms
+2026-10-23 14:07:46.187 +02:00 [INF] HTTP OPTIONS /api/cuentas respondió 204 en 0.0464 ms
+2026-10-23 14:07:46.193 +02:00 [INF] HTTP GET /api/bancos respondió 200 en 1.3325 ms
+2026-10-23 14:07:46.197 +02:00 [INF] HTTP GET /api/tipos-cuenta respondió 200 en 1.5970 ms
+2026-10-23 14:07:46.212 +02:00 [INF] HTTP GET /api/cuentas respondió 200 en 11.2541 ms
+2026-10-23 14:07:53.309 +02:00 [INF] HTTP OPTIONS /api/cuentas respondió 204 en 0.0526 ms
+2026-10-23 14:07:53.313 +02:00 [INF] HTTP OPTIONS /api/categorias respondió 204 en 0.0498 ms
+2026-10-23 14:07:53.313 +02:00 [INF] HTTP OPTIONS /api/tipos-movimiento respondió 204 en 0.0471 ms
+2026-10-23 14:07:53.316 +02:00 [INF] HTTP OPTIONS /api/movimientos respondió 204 en 0.0523 ms
+2026-10-23 14:07:53.325 +02:00 [INF] HTTP GET /api/categorias respondió 200 en 1.0253 ms
+2026-10-23 14:07:53.327 +02:00 [INF] HTTP GET /api/tipos-movimiento respondió 404 en 0.6194 ms
+2026-10-23 14:07:53.327 +02:00 [INF] HTTP GET /api/cuentas respondió 200 en 3.7966 ms
+2026-10-23 14:07:53.342 +02:00 [INF] HTTP GET /api/movimientos respondió 200 en 13.9959 ms

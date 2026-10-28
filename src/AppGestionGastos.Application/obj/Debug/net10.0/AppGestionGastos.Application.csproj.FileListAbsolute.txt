@@ -1,0 +1,15 @@
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Application\bin\Debug\net10.0\AppGestionGastos.Application.deps.json
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Application\bin\Debug\net10.0\AppGestionGastos.Application.dll
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Application\bin\Debug\net10.0\AppGestionGastos.Application.pdb
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Application\bin\Debug\net10.0\AppGestionGastos.Domain.dll
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Application\bin\Debug\net10.0\AppGestionGastos.Domain.pdb
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Application\obj\Debug\net10.0\AppGestionGastos.Application.csproj.AssemblyReference.cache
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Application\obj\Debug\net10.0\AppGestionGastos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Application\obj\Debug\net10.0\AppGestionGastos.Application.AssemblyInfoInputs.cache
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Application\obj\Debug\net10.0\AppGestionGastos.Application.AssemblyInfo.cs
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Application\obj\Debug\net10.0\AppGestionGastos.Application.csproj.CoreCompileInputs.cache
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Application\obj\Debug\net10.0\AppGesti.714CAF48.Up2Date
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Application\obj\Debug\net10.0\AppGestionGastos.Application.dll
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Application\obj\Debug\net10.0\refint\AppGestionGastos.Application.dll
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Application\obj\Debug\net10.0\AppGestionGastos.Application.pdb
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Application\obj\Debug\net10.0\ref\AppGestionGastos.Application.dll

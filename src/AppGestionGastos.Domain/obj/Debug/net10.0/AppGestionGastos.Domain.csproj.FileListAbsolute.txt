@@ -1,0 +1,12 @@
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Domain\bin\Debug\net10.0\AppGestionGastos.Domain.deps.json
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Domain\bin\Debug\net10.0\AppGestionGastos.Domain.dll
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Domain\bin\Debug\net10.0\AppGestionGastos.Domain.pdb
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Domain\obj\Debug\net10.0\AppGestionGastos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Domain\obj\Debug\net10.0\AppGestionGastos.Domain.AssemblyInfoInputs.cache
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Domain\obj\Debug\net10.0\AppGestionGastos.Domain.AssemblyInfo.cs
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Domain\obj\Debug\net10.0\AppGestionGastos.Domain.csproj.CoreCompileInputs.cache
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Domain\obj\Debug\net10.0\AppGestionGastos.Domain.dll
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Domain\obj\Debug\net10.0\refint\AppGestionGastos.Domain.dll
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Domain\obj\Debug\net10.0\AppGestionGastos.Domain.pdb
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Domain\obj\Debug\net10.0\ref\AppGestionGastos.Domain.dll
+C:\MisProyectos\AppGestionGastos\BackEnd\src\AppGestionGastos.Domain\obj\Debug\net10.0\AppGesti.5C8B2AA9.Up2Date

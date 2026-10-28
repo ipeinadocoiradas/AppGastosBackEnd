@@ -1,0 +1,14 @@
+2026-10-20 11:21:09.636 +02:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2026-10-20 11:21:10.113 +02:00 [INF] No migrations were applied. The database is already up to date.
+2026-10-20 11:21:14.530 +02:00 [INF] HTTP GET /scalar/scalar.aspnetcore.js respondió 200 en 22.4696 ms
+2026-10-20 11:21:14.457 +02:00 [WRN] Petición lenta: HTTP GET /scalar/v1 respondió 200 en 1076.5833 ms
+2026-10-20 11:21:14.843 +02:00 [INF] HTTP GET /scalar/scalar.js respondió 200 en 382.0569 ms
+2026-10-20 11:21:16.262 +02:00 [INF] HTTP GET /openapi/v1.json respondió 200 en 120.4167 ms
+2026-10-20 11:21:18.125 +02:00 [INF] HTTP GET /scalar/favicon.svg respondió 200 en 6.7152 ms
+2026-10-20 17:03:11.992 +02:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2026-10-20 17:03:12.395 +02:00 [INF] No migrations were applied. The database is already up to date.
+2026-10-20 17:03:14.916 +02:00 [WRN] Petición lenta: HTTP GET /scalar/v1 respondió 200 en 749.9359 ms
+2026-10-20 17:03:14.992 +02:00 [INF] HTTP GET /scalar/scalar.aspnetcore.js respondió 200 en 32.9549 ms
+2026-10-20 17:03:15.076 +02:00 [INF] HTTP GET /scalar/scalar.js respondió 200 en 97.5225 ms
+2026-10-20 17:03:15.645 +02:00 [INF] HTTP GET /openapi/v1.json respondió 200 en 45.1963 ms
+2026-10-20 17:03:16.294 +02:00 [INF] HTTP GET /scalar/favicon.svg respondió 200 en 1.4313 ms

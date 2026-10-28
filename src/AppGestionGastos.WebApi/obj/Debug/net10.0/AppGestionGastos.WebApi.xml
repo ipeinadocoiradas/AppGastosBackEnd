@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AppGestionGastos.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:AppGestionGastos.WebApi.Controllers.AdminControllerBase">
+            <summary>Base de los controladores de administración: exige el rol Admin en todos sus endpoints.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.AdminControllerBase.#ctor(AppGestionGastos.Application.Abstractions.Messaging.IDispatcher)">
+            <summary>Base de los controladores de administración: exige el rol Admin en todos sus endpoints.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.ApiControllerBase.OkOrProblem``1(AppGestionGastos.Domain.Common.Result{``0})">
+            <summary>200 OK con el valor, o ProblemDetails según el tipo de error.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.ApiControllerBase.CreatedOrProblem``1(AppGestionGastos.Domain.Common.Result{``0})">
+            <summary>201 Created con el valor, o ProblemDetails según el tipo de error.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.ApiControllerBase.NoContentOrProblem(AppGestionGastos.Domain.Common.Result)">
+            <summary>204 No Content si tuvo éxito, o ProblemDetails según el tipo de error.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.AuthController.Login(AppGestionGastos.Application.Features.Auth.Login.LoginCommand,System.Threading.CancellationToken)">
+            <summary>Autentica al usuario y devuelve un JWT.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.BancosController.Obtener(AppGestionGastos.Application.Features.Bancos.Obtener.ObtenerBancosQuery,System.Threading.CancellationToken)">
+            <summary>Lista los bancos con paginación y búsqueda opcional por nombre o código.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.BancosController.Crear(AppGestionGastos.Application.Features.Bancos.Crear.RegistrarBancoCommand,System.Threading.CancellationToken)">
+            <summary>Registra los bancos.(solo administradores)</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.BancosController.Actualizar(System.Guid,AppGestionGastos.Application.Features.Bancos.Actualizar.ActualizarBancoCommand,System.Threading.CancellationToken)">
+            <summary>Actualiza los bancos.(solo administradores)</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.BancosController.Eliminar(System.Guid,System.Threading.CancellationToken)">
+            <summary>Elimina un banco.(solo administradores)</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.CategoriasController.Obtener(AppGestionGastos.Application.Features.Categorias.Obtener.ObtenerCategoriasQuery,System.Threading.CancellationToken)">
+            <summary>Lista las categorías paginadas.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.CategoriasController.Crear(AppGestionGastos.Application.Features.Categorias.Crear.RegistrarCategoriaCommand,System.Threading.CancellationToken)">
+            <summary>Registra las categorías.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.CategoriasController.Actualizar(System.Guid,AppGestionGastos.Application.Features.Categorias.Actualizar.ActualizarCategoriaCommand,System.Threading.CancellationToken)">
+            <summary>Actualiza categoría.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.CategoriasController.Eliminar(System.Guid,System.Threading.CancellationToken)">
+            <summary>Elimina categoría.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.CuentasController.Obtener(AppGestionGastos.Application.Features.Cuentas.Obtener.ObtenerCuentasQuery,System.Threading.CancellationToken)">
+            <summary>
+            Obtiene las cuentas paginadas de un usuario
+            </summary>        
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.CuentasController.Crear(AppGestionGastos.Application.Features.Cuentas.Registrar.RegistrarCuentaCommand,System.Threading.CancellationToken)">
+            <summary>Registra cuentas bancarias de un usuario.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.CuentasController.Actualizar(System.Guid,AppGestionGastos.Application.Features.Cuentas.Actualizar.ActualizarCuentaCommand,System.Threading.CancellationToken)">
+            <summary>Actualiza la cuenta bancaria de un usuario.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.MovimientosController.Obtener(AppGestionGastos.Application.Features.Movimientos.Obtener.ObtenerMovimientosQuery,System.Threading.CancellationToken)">
+            <summary>Lista los movimientos del usuario autenticado, del más reciente al más antiguo.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.MovimientosController.Registrar(AppGestionGastos.Application.Features.Movimientos.Registrar.RegistrarMovimientoCommand,System.Threading.CancellationToken)">
+            <summary>Registra un movimiento en una cuenta del usuario autenticado y actualiza su saldo.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.TiposCuentaController.Obtener(AppGestionGastos.Application.Features.TiposCuenta.Obtener.ObtenerTiposCuentaQuery,System.Threading.CancellationToken)">
+            <summary>Lista los tipos de cuentas paginadas.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.TiposCuentaController.Crear(AppGestionGastos.Application.Features.TiposCuenta.Crear.RegistrarTipoCuentaCommand,System.Threading.CancellationToken)">
+            <summary>Registra los tipos de cuentas.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.TiposCuentaController.Actualizar(System.Guid,AppGestionGastos.Application.Features.TiposCuenta.Actualizar.ActualizarTipoCuentaCommand,System.Threading.CancellationToken)">
+            <summary>Actualiza tipo de cuenta.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.TiposCuentaController.Eliminar(System.Guid,System.Threading.CancellationToken)">
+            <summary>Elimina tipo de cuenta.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.TiposMovimientoController.Obtener(AppGestionGastos.Application.Features.TiposMovimiento.Obtener.ObtenerTiposMovimientoQuery,System.Threading.CancellationToken)">
+            <summary>Lista los tipos de movimiento (ingreso/egreso) para cargar selectores en el cliente.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.UsuariosController.Obtener(AppGestionGastos.Application.Features.Usuarios.Obtener.ObtenerUsuariosQuery,System.Threading.CancellationToken)">
+            <summary>Lista usuarios (solo administradores)</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.UsuariosController.Registrar(AppGestionGastos.Application.Features.Usuarios.Registrar.RegistrarUsuarioCommand,System.Threading.CancellationToken)">
+            <summary>Registra un nuevo usuario (rol "Usuario").</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.UsuariosController.Actualizar(System.Guid,AppGestionGastos.Application.Features.Usuarios.Actualizar.ActualizarUsuarioCommand,System.Threading.CancellationToken)">
+            <summary>Actualiza un usuario (rol "Usuario").</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Controllers.UsuariosController.Eliminar(System.Guid,System.Threading.CancellationToken)">
+            <summary>Elimina un usuario (rol "Usuario").</summary>
+        </member>
+        <member name="T:AppGestionGastos.WebApi.Middleware.ExceptionHandlingMiddleware">
+            <summary>
+            Captura las excepciones no controladas y las transforma en respuestas RFC 7807 (ProblemDetails).
+            Los fallos de FluentValidation se devuelven como ValidationProblemDetails con los errores agrupados por campo.
+            </summary>
+            
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Middleware.ExceptionHandlingMiddleware.#ctor(Microsoft.AspNetCore.Http.RequestDelegate,Microsoft.Extensions.Logging.ILogger{AppGestionGastos.WebApi.Middleware.ExceptionHandlingMiddleware})">
+            <summary>
+            Captura las excepciones no controladas y las transforma en respuestas RFC 7807 (ProblemDetails).
+            Los fallos de FluentValidation se devuelven como ValidationProblemDetails con los errores agrupados por campo.
+            </summary>
+            
+        </member>
+        <member name="T:AppGestionGastos.WebApi.Middleware.ExceptionHandlingMiddleware.ValidationProblemBody">
+            <summary>Cuerpo propio de un error de validación (formato RFC 7807 con 'errors' por campo).</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Middleware.ExceptionHandlingMiddleware.ValidationProblemBody.#ctor(System.String,System.String,System.Int32,System.String,System.String,System.Collections.Generic.Dictionary{System.String,System.String[]})">
+            <summary>Cuerpo propio de un error de validación (formato RFC 7807 con 'errors' por campo).</summary>
+        </member>
+        <member name="T:AppGestionGastos.WebApi.Middleware.RequestTimingMiddleware">
+            <summary>Mide el tiempo exacto de cada petición HTTP, lo registra en Serilog y lo expone en una cabecera.</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.Middleware.RequestTimingMiddleware.#ctor(Microsoft.AspNetCore.Http.RequestDelegate,Microsoft.Extensions.Logging.ILogger{AppGestionGastos.WebApi.Middleware.RequestTimingMiddleware})">
+            <summary>Mide el tiempo exacto de cada petición HTTP, lo registra en Serilog y lo expone en una cabecera.</summary>
+        </member>
+        <member name="T:AppGestionGastos.WebApi.OpenApi.BearerSecuritySchemeTransformer">
+            <summary>Declara el esquema Bearer JWT en el documento OpenApi nativo (.NET 10 / Microsoft.OpenApi 2.x).</summary>
+        </member>
+        <member name="M:AppGestionGastos.WebApi.OpenApi.BearerSecuritySchemeTransformer.#ctor(Microsoft.AspNetCore.Authentication.IAuthenticationSchemeProvider)">
+            <summary>Declara el esquema Bearer JWT en el documento OpenApi nativo (.NET 10 / Microsoft.OpenApi 2.x).</summary>
+        </member>
+        <member name="M:Microsoft.AspNetCore.OpenApi.Generated.DocumentationCommentIdHelper.CreateDocumentationId(System.Type)">
+            <summary>
+            Generates a documentation comment ID for a type.
+            Example: T:Namespace.Outer+Inner`1 becomes T:Namespace.Outer.Inner`1
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNetCore.OpenApi.Generated.DocumentationCommentIdHelper.CreateDocumentationId(System.Reflection.PropertyInfo)">
+            <summary>
+            Generates a documentation comment ID for a property.
+            Example: P:Namespace.ContainingType.PropertyName or for an indexer P:Namespace.ContainingType.Item(System.Int32)
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNetCore.OpenApi.Generated.DocumentationCommentIdHelper.CreateDocumentationId(System.Type,System.String)">
+            <summary>
+            Generates a documentation comment ID for a property given its container type and property name.
+            Example: P:Namespace.ContainingType.PropertyName
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNetCore.OpenApi.Generated.DocumentationCommentIdHelper.CreateDocumentationId(System.Reflection.MethodInfo)">
+            <summary>
+            Generates a documentation comment ID for a method (or constructor).
+            For example:
+              M:Namespace.ContainingType.MethodName(ParamType1,ParamType2)~ReturnType
+              M:Namespace.ContainingType.#ctor(ParamType)
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNetCore.OpenApi.Generated.DocumentationCommentIdHelper.GetTypeDocId(System.Type,System.Boolean,System.Boolean)">
+            <summary>
+            Generates a documentation ID string for a type.
+            This method handles nested types (replacing '+' with '.'),
+            generic types, arrays, pointers, by-ref types, and generic parameters.
+            The <paramref name="includeGenericArguments"/> flag controls whether
+            constructed generic type arguments are emitted, while <paramref name="omitGenericArity"/>
+            controls whether the generic arity marker (e.g. "`1") is appended.
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNetCore.OpenApi.Generated.DocumentationCommentIdHelper.NormalizeDocId(System.String)">
+            <summary>
+            Normalizes a documentation comment ID to match the compiler-style format.
+            Strips the return type suffix for ordinary methods but retains it for conversion operators.
+            </summary>
+            <param name="docId">The documentation comment ID to normalize.</param>
+            <returns>The normalized documentation comment ID.</returns>
+        </member>
+    </members>
+</doc>
