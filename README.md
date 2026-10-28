@@ -459,27 +459,10 @@ AppGestionGastos/
       └─ Program.cs  DependencyInjection.cs  appsettings.json
 ```
 
----
+## 👤 Autor
 
-## Roadmap y limitaciones conocidas
+**Iván** — Desarrollador Full-Stack (.NET / Angular)
 
-Para ser transparentes sobre el alcance actual:
+- GitHub: https://github.com/ipeinadocoiradas
+- LinkedIn: https://www.linkedin.com/in/ivanpeinadocoiradas/
 
-- [ ] **Pruebas automatizadas**: pendientes (planificado: xUnit para dominio y aplicación, Testcontainers con SQL Server y `WebApplicationFactory` para la API).
-- [ ] **Patrón Outbox**: diseñado como evolución para efectos externos que no pueden perderse; hoy los eventos post-commit se ejecutan en proceso.
-- [ ] **Historial de cambios** (`AuditLogs` o tablas temporales de SQL Server) además de las columnas de auditoría.
-- [ ] **Baja lógica de usuarios** en lugar de eliminación física.
-- [ ] **Caché distribuida** (Redis) para que la invalidación llegue a todas las instancias en despliegues con varias réplicas.
-- [ ] **Refresh tokens** y revocación de sesiones.
-- [ ] **CI/CD** con GitHub Actions y **Docker Compose** para el entorno local.
-- [ ] **Paginación por cursor** para tablas de gran volumen.
-
----
-
-## Licencia y autor
-
-**Licencia:** pendiente de definir. Si el repositorio es abierto, se recomienda incluir un archivo `LICENSE` (por ejemplo, MIT).
-
-**Autor:** Iván — desarrollador senior full-stack con foco en el ecosistema .NET.
-
-<!-- Añade aquí tus enlaces de contacto (LinkedIn, GitHub, email). -->
